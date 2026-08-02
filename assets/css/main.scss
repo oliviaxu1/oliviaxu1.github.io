@@ -39,9 +39,92 @@
 ;
 
 
-/* Custom Typography */
+/* ==========================
+   Custom Page Layout
+   ========================== */
 
+/* 正文整体 */
 .page__content {
-  font-size: 0.95rem;
-  line-height: 1.75;
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+/* 防止标题被 Sidebar 推到下方 */
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  clear: none;
+}
+
+/* 主要板块标题 */
+.page__content h1 {
+  font-size: 1.55rem;
+  line-height: 1.3;
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.3rem;
+}
+
+/* 页面第一个标题：不要留很大的顶部空白 */
+.page__content > h1:first-child {
+  margin-top: 0;
+}
+
+/* 项目、学位和职位标题 */
+.page__content h2 {
+  font-size: 1.2rem;
+  line-height: 1.35;
+  margin-top: 1.4rem;
+  margin-bottom: 0.45rem;
+}
+
+/* 更小层级标题 */
+.page__content h3 {
+  font-size: 1.05rem;
+  line-height: 1.35;
+  margin-top: 1.1rem;
+  margin-bottom: 0.4rem;
+}
+
+/* 段落间距 */
+.page__content p {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+}
+
+/* Bullet 间距 */
+.page__content ul,
+.page__content ol {
+  margin-top: 0.35rem;
+  margin-bottom: 1rem;
+}
+
+.page__content li {
+  margin-bottom: 0.25rem;
+}
+
+/* 分隔线 */
+.page__content hr {
+  margin: 1.6rem 0;
+}
+
+/* 技能表格 */
+.page__content table {
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+/* 手机端保持易读 */
+@media (max-width: 767px) {
+  .page__content {
+    font-size: 0.95rem;
+  }
+
+  .page__content h1 {
+    font-size: 1.45rem;
+  }
+
+  .page__content h2 {
+    font-size: 1.18rem;
+  }
 }
