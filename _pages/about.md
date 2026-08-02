@@ -37,21 +37,24 @@ I am currently seeking **PhD opportunities** in Finance, Financial Economics, Fi
 
 ### Master of Finance
 
-**The University of Melbourne** | *Jul 2024 – Dec 2025*
+**The University of Melbourne**
+*Jul 2024 – Dec 2025*
 
 **Relevant Coursework:** Applied Machine Learning in Finance; Data Analysis for Finance; Quantitative Analysis of Finance
 
 
 ### Bachelor of Applied Finance (First Class Honours)
 
-**Macquarie University** | *Jul 2022 – Jun 2024*
+**Macquarie University**
+*Jul 2022 – Jun 2024*
 
 **Relevant Coursework:** Stochastic Methods in Applied Finance; Financial Modelling; Quantitative Methods in Economics, Business and Finance
 
 
 ### Bachelor of Finance
 
-**Jiangsu University** | *Sep 2020 – Jun 2022*
+**Jiangsu University**
+*Sep 2020 – Jun 2022*
 
 Ranked **1st** in the Finance major for four consecutive semesters.
 
