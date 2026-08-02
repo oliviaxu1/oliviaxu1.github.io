@@ -7,7 +7,7 @@ excerpt: 'First-author publication on Digital RMB, privacy protection, and payme
 date: 2023-05-31
 venue: 'International Journal of Management Sciences and Business Research'
 # slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: '/files/Digital_RMB_Paper.pdf'
+# paperurl: '/files/Digital_RMB_Paper.pdf'
 # citation: 'Xu, A., et al. (2023). "Research on the Application of Digital RMB to Address the Monopoly and Privacy Issues of Third-Party Payments." <i>International Journal of Management Sciences and Business Research</i>.'
 ---
 
