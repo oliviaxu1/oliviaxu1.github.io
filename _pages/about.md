@@ -36,21 +36,26 @@ I am currently seeking **PhD opportunities** in Finance, Financial Economics, Fi
 # Education
 
 ### Master of Finance
-**The University of Melbourne**  
-*Jul 2024 – Dec 2025*
-Relevant coursework: Applied Machine Learning in Finance; Data Analysis for Finance; Quantitative Analysis of Finance
+
+**The University of Melbourne** · *Jul 2024 – Dec 2025*
+
+**Relevant Coursework:** Applied Machine Learning in Finance; Data Analysis for Finance; Quantitative Analysis of Finance
+
+<br>
 
 ### Bachelor of Applied Finance (First Class Honours)
 
-**Macquarie University**
-*Jul 2022 – Jun 2024*
-Relevant coursework: Stochastic Methods in Applied Finance; Financial Modelling; Quantitative Methods in Economics, Business and Finance
+**Macquarie University** · *Jul 2022 – Jun 2024*
+
+**Relevant Coursework:** Stochastic Methods in Applied Finance; Financial Modelling; Quantitative Methods in Economics, Business and Finance
+
+<br>
 
 ### Bachelor of Finance
 
-**Jiangsu University**
-*Sep 2020 – Jun 2022*
-Ranked **1st** in the Finance major for four consecutive semesters
+**Jiangsu University** · *Sep 2020 – Jun 2022*
+
+Ranked **1st** in the Finance major for four consecutive semesters.
 
 ---
 
@@ -61,9 +66,9 @@ Ranked **1st** in the Finance major for four consecutive semesters
 
 *International Journal of Management Sciences and Business Research*, May 2023
 
-DOI: https://doi.org/10.5281/zenodo.8013569
+**DOI:** [10.5281/zenodo.8013569](https://doi.org/10.5281/zenodo.8013569)
 
-
+<br>
 
 ### Research on Household Emergency Supplies Storage from the Theory of Planned Behavior and Intention–Behavior Gap in the Context of COVID-19
 
@@ -71,7 +76,7 @@ DOI: https://doi.org/10.5281/zenodo.8013569
 
 *Frontiers in Psychology*, January 2023
 
-DOI: https://doi.org/10.3389/fpsyg.2022.1069843
+**DOI:** [10.3389/fpsyg.2022.1069843](https://doi.org/10.3389/fpsyg.2022.1069843)
 
 
 ---
