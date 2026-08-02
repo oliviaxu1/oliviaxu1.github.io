@@ -6,7 +6,7 @@ permalink: /publication/household-emergency
 excerpt: "Co-authored publication on household emergency preparedness, behavioral intentions, and community-level influences during COVID-19."
 date: 2023-01-16
 venue: "Frontiers in Psychology"
-paperurl: "/files/COVID_Emergency_Supplies_Paper.pdf"
+paperurl: ""
 ---
 
 **Role:** Co-author
