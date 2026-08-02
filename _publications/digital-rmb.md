@@ -53,7 +53,6 @@ My primary contributions included:
 
 ## Resources
 
-**DOI:** https://doi.org/10.5281/zenodo.8013569
+**DOI:** [10.5281/zenodo.8013569](https://doi.org/10.5281/zenodo.8013569)
 
 **PDF:** [Download Paper](/files/Digital_RMB_Paper.pdf)
-
