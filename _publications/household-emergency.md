@@ -48,4 +48,5 @@ My primary contributions included:
 ## Resources
 
 **DOI:** [10.3389/fpsyg.2022.1069843](https://doi.org/10.3389/fpsyg.2022.1069843)
+
 **PDF:** [Download Paper](/files/COVID_Emergency_Supplies_Paper.pdf)
